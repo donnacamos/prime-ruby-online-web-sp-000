@@ -1,5 +1,5 @@
 # Add  code here!
 def prime?(number)
   start = 2 
-  range = 
+  range = (start..number-1)
 end 
